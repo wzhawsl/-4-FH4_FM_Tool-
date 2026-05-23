@@ -3,7 +3,7 @@
 
 地平线 4 自定义电台替换工具。
 
-**网盘链接:**地平线4电台工具.zip https://pan.baidu.com/s/14muNA_aOcu2jHWA4iUIA3w?pwd=j8mg 提取码: j8mg
+网盘链接 https://pan.baidu.com/s/14muNA_aOcu2jHWA4iUIA3w?pwd=j8mg 提取码: j8mg
 
 **实现：** 把地平线 4(Froze Horizon 4) 游戏内任意一个电台的歌曲，替换成你自己准备的音乐，并让游戏正确识别歌名、作者(英文歌曲自带相关元数据时)，以及提供简易版的 DJ 播报、比赛播放逻辑等行为。
 
